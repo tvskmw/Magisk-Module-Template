@@ -1,6 +1,0 @@
-{
-    "version": "@(ModuleVersion)",
-    "versionCode": @(ModuleVersionCode),
-    "zipUrl": "https://github.com/@(RepositoryOwner)/@(RepositoryName)/releases/latest/download/@(ModuleName).zip",
-    "changelog": "https://raw.githubusercontent.com/@(RepositoryOwner)/@(RepositoryName)/master/changelog.md"
-}
