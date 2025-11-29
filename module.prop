@@ -1,7 +1,6 @@
-id=@(ModuleName)
-name=@(ModuleDisplayName)
-version=@(ModuleVersion)
-versionCode=@(ModuleVersionCode)
-author=@(ModuleAuthorName)
-description=@(ModuleDescription)
-updateJson=https://raw.githubusercontent.com/@(RepositoryOwner)/@(RepositoryName)/master/update.json
+id=tiktokbelarusregion
+name=TikTok Belarus Region
+version=v1.0
+versionCode=1
+author=tvskmw
+description=TT BELARUS REGION
